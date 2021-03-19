@@ -1,0 +1,51 @@
+* {
+    margin: 0;
+    padding: 0;
+    background: white;
+    
+}
+#Trang-Chu-Genshin ul {
+  list-style: none;
+  background-color: #444;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}
+#Trang-Chu-Genshin li {
+    font-size: 24px;
+    line-height: 10px;
+    height: 10px;
+    display: inline-block;
+    padding: 20px;
+    color: white;
+  }
+#Trang-Chu-Genshin a {
+    text-decoration: none;
+    color: black;  
+  }
+  #Trang-Chu-Genshin h5 {
+    margin: 0;
+    padding: 0;
+    background: #ccc;
+  }
+  
+  section {
+    margin-left: 30px;
+  }
+  h4 {
+    font-size: 28px;
+  }
+  header > p {
+    font-style: italic;
+  }
+  article > p {
+    font-size: 28px;
+  }
+  table, td, tr, th {
+    border: 10px solid #f3f3f3;
+  }
+  
+  td {
+    padding-left: 10px;
+  }
+  
