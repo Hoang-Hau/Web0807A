@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="site.css">
+    <script src="main.js"></script>
+    <title>Home-Genshin</title>
+    <link rel="stylesheet" href="./Genshin.css">
+
+    <body>
+        <nav id="Trang-Chu-Genshin">
+            <ul>
+                <li><a href="#">Home</a></li>
+                <li><a href="#">Menu</a></li>
+                <li><a href="#">Character</a></li>
+                <li><a href="#">Information</a></li>
+                <li><a href="#">Update</a></li>
+            </ul>
+        </nav>
+        <header>
+            <h1>Google GenshinImpact</h1>
+            <p>Posted at <time datetime="2014-01-13T11:34">11:34AM, 13th January 2014</time></p>
+        </header>
+        <p> Tua game GenshinImpact se dem lai cho nguoi choi nhung dieu thu vi </p>
+        
+        <main>
+            <h1>Story</h1>
+            <p>Cot truyen chinh cua game ...</p>
+            <article>
+              <h2>Chacract</h2>
+              <p>Nhan vat trong game ...
+                Example: Diluc
+              </p>
+            </article>
+            <section>
+                <h3>Diluc character</h3>
+                <img src="Diluc genim (2).png" />
+            </section>
+            <section>
+                <article>
+                  <header>
+                    <h4>Update date</h4>
+                    <p>Written by Hau Hoang</p>
+                  </header>
+                  <p>This is my second blog…</p>
+                </article>
+                <article>
+                  <!-- TODO: put the next article here -->
+                </article>
+              </section>   
+            <aside>
+                <h5>Blogroll</h5>
+                <ul>
+                  <li><a href="#">Charact zhongli</a></li>
+                  <li><a href="#">Charact xiao</a></li>
+                  <li><a href="#">Charact Chong</a></li>
+                </ul>
+            </aside>
+        </main>
+        <audio controls autoplay>
+            <source src="JourneyOfHopeGenshinImpactMainThemeVar-YuPengChen-6722436.mp3" 
+            type="audio/mpeg">
+          </audio>
+          
+        <video controls="controls">
+            <source src="video-1616143387.mp4" 
+            type="video/mp4">
+        
+        </video>
+          
+        <footer>
+            <p>Posted by: Hau Hoang</p>
+              <p><a href="conghau2001.com">Contact...</a></p>
+            <p>&copy;copyright</p>
+          </footer>
+    </body>
+       
+<table border="1">
+    <tr>
+        <th colspan="3">THÔNG TIN NHÂN VẬT</th>
+        
+    </tr>
+    <tr>
+        <td>Diluc</td>
+        <td>30/04/1999</td>
+        <td>Male</td>
+    </tr>
+    <tr>
+        <td>Ganyu</td>
+        <td>02/12/1991</td>
+        <td>Female</td>
+    </tr>
+    <tr>
+        <td>Zhongli</td>
+        <td>31/12/1991</td>
+        <td>Male</td>
+    </tr>
+</table>
